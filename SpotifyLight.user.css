@@ -1,9 +1,10 @@
 /* ==UserStyle==
 @name           Light Theme Spotify
-@namespace      github.com/openstyles/stylus
-@version        1.0.0
-@description   Creates a Light Theme for the Spotify Website
+@namespace      userstyles.world/user/ThatOneUnoriginal
+@version        1.1
+@description    Creates a Light Theme for the Spotify Website
 @author         ThatOneUnoriginal / tou
+@license        MIT
 ==/UserStyle== */
 
 @-moz-document domain("open.spotify.com") {
@@ -412,6 +413,27 @@ color: #4d4b4b !important;
     .uUYNnjSt8m3EqVjsnHgh{
         background-color: #e7e7e7;
     }
+    .uUYNnjSt8m3EqVjsnHgh>.bOIRpQiHUAEfp8ntStTo>h1{
+        color: #000 !important;
+    }
+   .SpotifyLogo_spotifyLogoLink__LKCqq>svg{
+        color: #fff !important;
+    }
+    .PlayerControlsExtendedNoAnimation_playButtonWrapper__lcIQB>button>svg{
+        color: #fff;
+    }
+    .gAlrxXSfi5DpMcVMiUsz{
+        color: #000
+    }
+    .TSQvyxomq15adJzfCj3j{
+        color: #000;
+    }
+    .PlayerControlsExtendedNoAnimation_progressBarWrapper__D4yE2>button>span>svg{
+        fill: #fff;  
+    }
+    .PlayerControlsExtendedNoAnimation_progressBarWrapper__D4yE2>button:hover>span>svg{
+        fill: #fff;  
+    }
     #__next > div > div > div.TrackWidget_singleGridContainer__iYPj8 > div.TrackWidget_metadataWrapper__GzypS > div > div > button > span.AddToLibrary_addToLibraryButtonText__YheNj{
         color: #ffff
     }
@@ -422,6 +444,34 @@ color: #4d4b4b !important;
         color: #fff;
     }
 #__next > div > div > div.TrackWidget_singleGridContainer__iYPj8 > div.PlayerControls_playerControlsWrapper__eaDbG > div.PlayerControls_baselineWrapper__rDAnZ > button.Button-sc-1dqy6lx-0.IsQZX.OverflowMenuButton_overflowMenuButton__JPKiT > span > svg{
+        fill: #fff;
+    }
+    .iWTxZk{
+        color: #fff;
+    }
+    .AddToLibrary_addToLibraryButtonWrapper__mXavE>button>span>svg{
+        fill: #fff;
+
+    }
+    .MnqXew54JWlqw2TG7vDK>label{
+        color: #000;
+    }
+    .OverflowMenuButton_overflowMenuButton__JPKiT>span>svg{
+        fill: #ffff;
+    }
+    .OverflowMenuButton_overflowMenuButton__JPKiT:hover>span>svg{
+        fill: #ffff;
+    }
+    .TracklistRow_trackNumberCellContent__781FQ>svg{
+        fill: #fff;
+    }
+    .TracklistRow_trackNumberCellContent__781FQ:hover>svg{
+        fill: #fff;
+    }
+    .OverflowMenuBase_menuItem__0Ijn4 .OverflowMenuBase_menuItemButton__YuobD>svg{
+        fill: #fff;
+    }
+    .OverflowMenuBase_closeButton__pATy_>svg{
         fill: #fff;
     }
     .TrackWidget_singleGridContainer__iYPj8 .TrackWidget_metadataWrapper__GzypS a[href]:focus, .TrackWidget_singleGridContainer__iYPj8 .TrackWidget_metadataWrapper__GzypS a[href]:hover, .TrackWidget_singleGridContainer__iYPj8 .TrackWidget_metadataWrapper__GzypS a[href]:hover:focus{
@@ -491,7 +541,7 @@ color: #4d4b4b !important;
     #__next > div > div > div.OverflowMenuSingle_wrapper__1m1hM > div > button > svg{
         color: #fff;
     }
-    .t6HIrX67Lp80Nj6tGauz .QZhV0hWVKlExlKr266jo:placeholder-shown{
+    .t6HIrX67Lp80Nj6tGauz .QZhV0hWVKlExlKr266jo{
         color: #000;
     }
     .tJeH2W2to1A7d9tWBRoi{
@@ -530,7 +580,131 @@ color: #4d4b4b !important;
 #main > div > div.ZQftYELq0aOsg6tPbVbV > div.jEMA2gVoLgPQqAFrPhFw > div.main-view-container > div.os-host.os-host-foreign.os-theme-spotify.os-host-resize-disabled.os-host-scrollbar-horizontal-hidden.main-view-container__scroll-node.os-host-transition.os-host-overflow.os-host-overflow-y > div.os-padding > div > div > div.main-view-container__scroll-node-child > main > section > div.os-host.os-host-foreign.os-theme-spotify.os-host-resize-disabled.os-host-scrollbar-horizontal-hidden.os-host-scrollbar-vertical-hidden.os-host-transition > div.os-padding > div > div > div > div > div.PFgcCoJSWC3KjhZxHDYH > button > span > span > svg{
     fill: #fff
     }
+    .N2H1mslT6i_RSEIV_C9r{
+        background: #cccccc;
+    }
+#main > div > div.ZQftYELq0aOsg6tPbVbV > div.jEMA2gVoLgPQqAFrPhFw > div.main-view-container > div.os-host.os-host-foreign.os-theme-spotify.os-host-resize-disabled.os-host-scrollbar-horizontal-hidden.main-view-container__scroll-node.os-host-transition.os-host-overflow.os-host-overflow-y > div.os-padding > div > div > div.main-view-container__scroll-node-child > main > section > div > div.BL__GuO2JsHMR6RgNfwY > div.contentSpacing > div:nth-child(1) > div > div.EsgR8WWJIEa9L2wBAKxg._yUo81yeoON6wNqCV_ud > div > div > section > div:nth-child(3) > section._J01KVkIVWXWiD__tOsv > div.OOmQiEAn7X_8Iy2FBVU2 > div.Type__TypeElement-sc-goli3j-0.bkjCej > a{
+    color: #ffff;
+    }    
+    .vreceNX3ABcxyddeS83B{
+        background: #ffff;
+    }
+    .bk509U3ZhZc9YBJAmoPB {
+        --generic-tooltip-background-color: #d7d7d7 !important;
+    }
+    .hcuLp8V4uEEfWZ4k6aLV{
+        background: #d7d7d7;
+    }
+    .hcuLp8V4uEEfWZ4k6aLV:hover{
+        background: #c0bfbf;
+    }
+    .bzmsYhq8qXerwAFF0AUJ .bSVIjPzgLuQbllliZ_AH, .bzmsYhq8qXerwAFF0AUJ:focus-within .ErSD7TARZzk270zuVjoi:not([aria-disabled=true]), .bzmsYhq8qXerwAFF0AUJ:hover .ErSD7TARZzk270zuVjoi:not([aria-disabled=true]){
+        background: #c0bfbf;
+    }
+    .uV8q95GGAb2VDtL3gpYa{
+        background: #cccccc;
+        color: #000;
+    }
+    .pGU_qEtNT1qWKjrRbvan{
+        border-bottom: 1px solid hsla(0, 0%, 0%, .1);
+    }
+    .pGU_qEtNT1qWKjrRbvan>button>svg>path{
+        fill: #000; 
+    }
+ #main > div > div.ZQftYELq0aOsg6tPbVbV > div.jEMA2gVoLgPQqAFrPhFw > div.main-view-container > div.os-host.os-host-foreign.os-theme-spotify.os-host-resize-disabled.os-host-scrollbar-horizontal-hidden.main-view-container__scroll-node.os-host-transition.os-host-overflow.os-host-overflow-y > div.os-padding > div > div > div.main-view-container__scroll-node-child > main > section > div > div.BL__GuO2JsHMR6RgNfwY > div.contentSpacing > div:nth-child(1) > div > div.EsgR8WWJIEa9L2wBAKxg._yUo81yeoON6wNqCV_ud > div > div > section > div:nth-child(3) > section._J01KVkIVWXWiD__tOsv > div.OOmQiEAn7X_8Iy2FBVU2 > div.Type__TypeElement-sc-goli3j-0.ieTwfQ{
+        color: #ffff
+    }
+    .TXVCwyY2iLFPRMSav251 .QQasfrfLlxtbcdiJP40s{
+        color: hsla(0, 0%, 0%, .7);
+    }
+    .uhDzVbFHyCQDH6WrWZaC{
+        background: #ffff;
+    }
+    .MclJZ2TMkhjdlqqQfmQd{
+        background-color: #d7d7d7;
+    }
+    .xfQXUkj6ThzTYbfF8ilt{
+        background-color: #bfbebe;
+        color: #000;
+    }
+    .FeWwGSRANj36qpOBoxdx{
+        background-color: hsla(0, 0%, 51%, .1);    }
+.PiyAiXdQULEnWAHP0tu1{
+        background-color: #d7d7d7;
 }
+.xfQXUkj6ThzTYbfF8ilt{
+        background-color: #aaa9a9;
+}
+.MclJZ2TMkhjdlqqQfmQd{
+        background-color: #d0cfcf;   
+}
+.c0CddR8wF7kDxvU6uM8B{
+    background: hsla(0, 1%, 64%, .24)
+}
+.JaGLdeBa2UaUMBT44vqI{
+background: hsla(0, 1%, 64%, .24)        
+}
+    .f0GjZQZc4c_bKpqdyKbq:focus{
+        background: #cccccc;
+        border: 1px solid #acacac;
+    } 
+    .rosHlzYfiO0UfpmOhP4I:before{
+        background: #0000;
+    }
+    .JaGLdeBa2UaUMBT44vqI{
+        color: #000;
+    }
+    .c0CddR8wF7kDxvU6uM8B{
+        color: #000;
+    }
+    .OodUnm1iCEZTUeL6X1gj{
+        color: #000;
+    }
+    .mCKPqUiNNAO6GM3nRBXe{
+        color: #000;
+    }
+    .QEd1L2SSRW1ol_sQQN6m{
+        background: #cccccc;
+    }
+    .Swi6YtNEFCCVz8l4y75v{
+        background: #000;
+    }
+    p._q93agegdE655O5zPz6l+div.iLIlkUcfIq56KncGtX7u:before, p._q93agegdE655O5zPz6l+p:before{
+        color: #000;
+    }
+    .t_yrXoUO3qGsJS4Y6iXX{
+        color: #000;
+    }
+    .QO9loc33XC50mMRUCIvf{
+        background: #dbdbdb;
+        color: #000;
+    }
+    .QO9loc33XC50mMRUCIvf:focus{
+        background: #c4c2c2;
+        box-shadow: 0 0 0 0 2px #000;
+        outline: black;
+    }
+    .QO9loc33XC50mMRUCIvf:hover{
+        background: #c4c2c2;
+}
+    .xmJl0s8mcJ3bfhtnoaP1{
+        background-color: rgba(153, 153, 153, .8);
+        color: #ffff
+    }
+    .iSdDcgYotxUpyRSGLR62{
+        box-shadow: 0 8px 24px rgba(247, 247, 247, .5);
+    }
+    .PlayButton_buttonWrapper___CMG4, .PlayButton_buttonWrapper___CMG4 .PlayButton_playPauseIcon__EBXpd>path{
+        fill: #fff;
+    }
+    .qWcH8e2laY9sYOuCsOAx{
+        background: rgba(119, 118, 118, .7);
+    }
+        .qWcH8e2laY9sYOuCsOAx:hover{
+        background: rgba(149, 147, 147, .7);
+    }
+}
+
 @-moz-document url-prefix("https://open.spotify.com/artist/") {
 .MyW8tKEekj9lKQsviDdP,.gHImFiUWOg93pvTefeAD {
    display: inline;
