@@ -7,6 +7,8 @@
 Spotify Light is a User Style that modifies the Spotify Website to create a light theme for the website. Unlike the next best option, Spotify Light recolours the elements to create the most authentic experience for users, meanwhile the alternative inverts everything, which leads to ugly colours and unwanted recolourifications (ex: The image in the "About the Arist" has its colours inverted".)
 ![image](https://github.com/ThatOneUnoriginal/Spotify-Light/assets/70731807/5d693f5d-d483-4308-927c-da192d3521f0)
 <b><p align="center">Left: Spotify Light | Right: Next Best Option</p></b>
+![image](https://github.com/ThatOneUnoriginal/Spotify-Light/assets/70731807/d44cb2f2-a56c-40ad-85e5-63b6520e8756)
+<b><p align="center">Left: Spotify Light | Right: Next Best Option</p></b>
 
 # Intallation
 Install the Stylus extension for [Firefox](https://addons.mozilla.org/firefox/addon/styl-us/) or [Chrome/Chromium Based Browsers](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne).
