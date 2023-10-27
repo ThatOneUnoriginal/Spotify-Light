@@ -13,4 +13,4 @@ Spotify Light is a User Style that modifies the Spotify Website to create a ligh
 # Intallation
 Install the Stylus extension for [Firefox](https://addons.mozilla.org/firefox/addon/styl-us/) or [Chrome/Chromium Based Browsers](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne).
 
-You can find the Spotify Light Theme on UserStyles.World by going [here](https://userstyles.world/style/12737/2023-light-theme-spotify). On this page, scroll down until you see a "Install" button. Once clicked it will direct you to the Stylus sytle installation screen, on this simply click the "Install style" button.
+You can find the Spotify Light Theme on UserStyles.World by going [here](https://userstyles.world/style/12735/light-theme-spotify). On this page, scroll down until you see a "Install" button. Once clicked it will direct you to the Stylus sytle installation screen, on this simply click the "Install style" button.
