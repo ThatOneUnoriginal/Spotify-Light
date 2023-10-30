@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Light Theme Spotify
 @namespace      userstyles.world/user/ThatOneUnoriginal
-@version        1.1
+@version        1.2
 @description    Creates a Light Theme for the Spotify Website
 @author         ThatOneUnoriginal / tou
 @license        MIT
@@ -677,7 +677,7 @@ background: hsla(0, 1%, 64%, .24)
     }
     .QO9loc33XC50mMRUCIvf{
         background: #dbdbdb;
-        color: #000;
+        color: #000 !important;
     }
     .QO9loc33XC50mMRUCIvf:focus{
         background: #c4c2c2;
@@ -702,6 +702,101 @@ background: hsla(0, 1%, 64%, .24)
     }
         .qWcH8e2laY9sYOuCsOAx:hover{
         background: rgba(149, 147, 147, .7);
+    }
+    .i2yp6pOoZpYZLd5QWguN{
+        color: #ffff !important;   
+    }
+    .UAk3bMhekwJTV_wIyfsT{
+        background: rgba(255, 255, 255, .6)
+    }
+    .YpfopxY2udneDY34uzRN{
+        background: rgba(255, 255, 255, .6)        
+    }
+    .LUMel_X4gQK0J1i6X0sC{
+        border: 1px solid #000;
+        color: #000;
+    }
+    .LUMel_X4gQK0J1i6X0sC:hover{
+        border: 1px solid #000;
+    }   
+    .Za_uNH8nTZ0qCuIqbPLZ a{
+        color: #4c4c4c;   
+    }
+    .nloNe2BLRHjz9dxlwfLU{
+        color: #ffff;
+    }
+    .TPdGbM0PhSqxmhkxP9n2>h2{
+        color: #ffff !important;
+    }
+    .FC5Y_KFJ9rJyTpydqtOW{
+        background: rgba(255, 255, 255, .6)        
+    }
+    .JtKEdtTtcK7s6EpGecaC>span{
+        color: #fff !important;
+    }
+    .CHJYbX33oDik9u4n4ohH{
+        background: #e7e7e7;
+    }
+    .akvZI06vqHOow1pOL29J .WWZp3WM0maWJzl2qWEHE{
+        color: #000;
+    }
+    .akvZI06vqHOow1pOL29J .YdkAHxbDekz9SiAxHG6M{
+        color: #000;
+    }
+    .akvZI06vqHOow1pOL29J{
+        background: hsla(0, 0%, 51%, .1);        
+    }
+    .JfYURQbEA_ntMsMZV6tK{
+        color: #000;
+    }
+    .ConcertFeedGroupedModal___StyledButtonTertiary-sc-1o845wh-0{
+        background: #ffff;
+    }
+    .Type__TypeElement-sc-goli3j-0 ieTwfQ, .JzXND83mXvcEuntCNR34{
+        color: #fff
+    }
+    .erNyaM:hover{
+        border-color: #000;
+    }
+    .HkbHLcqgUfXruL5xVi28{
+        background: #e7e7e7;
+    }
+    .HkbHLcqgUfXruL5xVi28:hover{
+        background: #c1c0c0;
+    }
+    .VL6wjp4Br_D3FEWrUGGR{
+        color: #000;
+    }
+    .PfYVlZzroXSurDmS_kxY{
+        color: #000;
+    }
+    .PFgcCoJSWC3KjhZxHDYH>button>span>span>svg{
+        fill: #fff;
+        
+    }
+    .PFgcCoJSWC3KjhZxHDYH:hover>button>span>span>svg{
+        fill: #fff;
+    }
+    .PFgcCoJSWC3KjhZxHDYH>button>span>svg{
+        color: #fff !important;
+    }
+    .BuzoTjBZd1UqCn6DmFJr{
+        fill: #000
+    }
+    .gTDASv{
+        color: #000;
+    }
+    .VaChXV5vRmHB24UihCAG{
+        color: #000;
+    }
+    .ObwDQms6Cu8h_8FMWzAT{
+        color: #000;
+    }
+    .hVVaM4pF9arpQ8Nvn2a1{
+        border-color: #000;
+    }
+    .cSfdnZ{
+        color: #585858;
     }
 }
 
