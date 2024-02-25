@@ -1,10 +1,25 @@
 /* ==UserStyle==
 @name           Light Theme Spotify
 @namespace      userstyles.world/user/ThatOneUnoriginal
-@version        1.2
+@version        1.3
 @description    Creates a Light Theme for the Spotify Website
 @author         ThatOneUnoriginal / tou
 @license        MIT
+
+UPDATE 1.3
+- Changed Subbed Text to Black to Improve Readability
+- Ensured that Home and Search Button Text would Stay Black
+- Changed the Search in Your Library Icon to be Black Instead of White
+- Changed Notification Button to Match Light Theme
+- Changed Empty Queue Help Text to Black to Improve Readability
+- Changed Scroll Down User/Artist Name to Black
+- Fixed Full Screen Mode Being Less Functional While Using Theme
+- Fixed Issues with Credits Text
+- Fixed Credits Follow Hover Border Line Miscolouration
+- Fixed Now Playing View Next in Queue Hover Play Icon Miscolouration
+- Fixed Now Playing View Song More Options Popup Miscolouration
+- Fixed User Option Popup External Link Icon Miscolouration
+- Fixed Install App Text Miscoluration (Note that using the Spotify App will mean inability to use this theme)
 ==/UserStyle== */
 
 @-moz-document domain("open.spotify.com") {
@@ -38,6 +53,7 @@
         --essential-announcement: #0d72ea;
         --decorative-base: #fff;
         --decorative-subdued: #292929;
+        --text-subdued: #000
         }
     .LunqxlFIupJw_Dkx6mNx{
         background: #dedede;
@@ -803,6 +819,67 @@ background: hsla(0, 1%, 64%, .24)
     }
     #main > div > div.ZQftYELq0aOsg6tPbVbV > div.jEMA2gVoLgPQqAFrPhFw > div.main-view-container > div.os-host.os-host-foreign.os-theme-spotify.os-host-resize-disabled.os-host-scrollbar-horizontal-hidden.main-view-container__scroll-node.os-host-transition.os-host-overflow.os-host-overflow-y > div.os-padding > div > div > div.main-view-container__scroll-node-child > main > section > div > div.BL__GuO2JsHMR6RgNfwY > div.contentSpacing > div:nth-child(1) > div > div.EsgR8WWJIEa9L2wBAKxg > div > div > section > div:nth-child(3) > section._J01KVkIVWXWiD__tOsv > div.OOmQiEAn7X_8Iy2FBVU2 > div.Type__TypeElement-sc-goli3j-0.ieTwfQ{
         color: #ffff;
+    }
+    .gYdBJW{
+        color: #000;
+    }
+    .dYnaPI{
+        fill: #000;
+    }
+    .WtC1lGbmQRplD6JBhNFU{
+        background: #fff
+    }
+    .dCAvla{
+        fill: #000;
+    }
+    .CFs2mUpqIYqltzDj1ygk{
+        color: #000;
+    }
+    .HcA9WjbLc4x02X8Ty0uO.lro6AjUrZFH6zxjmOGg0>*{
+        color: #000 !important;
+    }
+    #main > div > div:nth-child(4) > div > div.spotifyinternal-artistnpv.npv-has-progress-bar.npv-has-animations-and-transitions > div.npv-main-container > div.ylcmjHXKpwmez5_bBVgt > div > div.playback-bar > div.Text__TextElement-sc-if376j-0.ksSRyh.encore-text-body-medium.playback-bar__progress-time-elapsed{
+        color: #fff;
+    }
+    #main > div > div:nth-child(4) > div > div.spotifyinternal-artistnpv.npv-has-progress-bar.npv-has-animations-and-transitions > div.npv-main-container > div.ylcmjHXKpwmez5_bBVgt > div > div.playback-bar > div.p1ULRzPc4bD8eQ4T_wyp.DFtdzavKSbEhwKYkPTa6 > div{
+        --bg--color: hsla(0, 0%, 100%, .3);
+        --fg--color: #fff;
+    }
+    #main > div > div:nth-child(4) > div > div.spotifyinternal-artistnpv.npv-has-progress-bar.npv-has-animations-and-transitions > div.npv-main-container > div.ylcmjHXKpwmez5_bBVgt > div > div.playback-bar > div.Text__TextElement-sc-if376j-0.ksSRyh.encore-text-body-medium.npFSJSO1wsu3mEEGb5bh{
+        color: #fff;
+    }
+    #main > div > div:nth-child(4) > div > div.spotifyinternal-artistnpv.npv-has-progress-bar.npv-has-animations-and-transitions > div.npv-main-container > div.ylcmjHXKpwmez5_bBVgt > div > div.mbUrqWP55sK6zhspiR72 > div.SVGHXIQcH9HYU7uGITw5.FTi9QEhetf4Q4__5sb4S > div > div > div > div > div.NoOAOv6U6vtqj_ybS1Cd > div.w699O0LgQRghXyl3bs9u > div{
+        background-color: #fff;
+    }
+    #main > div > div:nth-child(4) > div > div.spotifyinternal-artistnpv.npv-has-progress-bar.npv-has-animations-and-transitions > div.npv-main-container > div.ylcmjHXKpwmez5_bBVgt > div > div.playback-bar > div.p1ULRzPc4bD8eQ4T_wyp.DFtdzavKSbEhwKYkPTa6 > div > div.NoOAOv6U6vtqj_ybS1Cd > div.w699O0LgQRghXyl3bs9u > div{
+        background: #fff;
+    }
+    #main > div > div:nth-child(4) > div > div.spotifyinternal-artistnpv.npv-has-progress-bar.npv-has-animations-and-transitions > div.npv-main-container > div.ylcmjHXKpwmez5_bBVgt.kChcaF3yz3SoL5dZPwEr > div > div.playback-bar > div.p1ULRzPc4bD8eQ4T_wyp.DFtdzavKSbEhwKYkPTa6 > div > div.NoOAOv6U6vtqj_ybS1Cd > div.w699O0LgQRghXyl3bs9u{
+        background: hsla(0, 0%, 100%, .3);
+    }
+    #main > div > div:nth-child(4) > div > div.spotifyinternal-artistnpv.npv-has-progress-bar.npv-has-animations-and-transitions > div.npv-main-container > div.ylcmjHXKpwmez5_bBVgt > div > div.mbUrqWP55sK6zhspiR72 > div.SVGHXIQcH9HYU7uGITw5.FTi9QEhetf4Q4__5sb4S > div > button{
+        color: #fff
+    }
+    .duYgEj{
+        color: #000;
+    }
+    .hzReZj:hover{
+        border: 1px solid #000;
+    }
+    .bneLcE{
+        fill: #000;
+    }
+    .NbcaczStd8vD2rHWwaKv{
+        background: #fff;
+    }
+    #context-menu > div > ul > li > button > svg{
+        fill: #000;
+    }
+    #context-menu > div > ul > li > a > svg{
+        fill: #000
+    }
+    .fYDLFO{
+        color: #000;
     }
 }
 
