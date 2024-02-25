@@ -1,3 +1,18 @@
+## Update 1.3
+* Changed Subbed Text to Black to Improve Readability
+* Ensured that Home and Search Button Text would Stay Black
+* Changed the Search in Your Library Icon to be Black Instead of White
+* Changed Notification Button to Match Light Theme
+* Changed Empty Queue Help Text to Black to Improve Readability
+* Changed Scroll Down User/Artist Name to Black
+* Fixed Full Screen Mode Being Less Functional While Using Theme
+* Fixed Issues with Credits Text
+* Fixed Credits Follow Hover Border Line Miscolouration
+* Fixed Now Playing View Next in Queue Hover Play Icon Miscolouration
+* Fixed Now Playing View Song More Options Popup Miscolouration
+* Fixed User Option Popup External Link Icon Miscolouration
+* Fixed Install App Text Miscoluration (Note that using the Spotify App will mean inability to use this theme)
+
 ## Update 1.2.1
 * Modified Concerts Page to Fit Light Theme
 * Modified Audio Books to Fit Light Theme
